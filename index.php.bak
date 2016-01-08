@@ -11,7 +11,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="Ujval Shah - Drupal Evangelist">
-
+<link rel="shortcut icon" href="http://virtueinfo.com/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
 <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 <link rel="stylesheet" type="text/css" href="css/font-awesome.css">
 <link rel="stylesheet" type="text/css" href="css/DarkBlue.css" id="colors-style">
@@ -195,19 +195,13 @@
 <!-- End wrapper --> 
  
   <!-- jquery | jQuery 1.11.0 -->
-        <!-- Credits: http://jquery.com -->
+       
         <script type="text/javascript" src="js/jquery_006.js"></script>
 
-        <!-- Js | mCustomScrollbar -->
-        <!-- Credits: http://manos.malihu.gr/jquery-custom-content-scroller -->
+       
         <script type="text/javascript" src="js/jquery_004.js"></script>		
 
-        <!-- Js | Js -->
-        <!-- Credits: http://themeforest.net/user/FlexyCodes -->
         <script type="text/javascript" src="js/main.js"></script>
-
-		 <!-- Js | easyResponsiveTabs -->
-        <!-- Credits: http://webtrendset.com/demo/easy-responsive-tabs/Index.html -->
         <script type="text/javascript" src="js/easyResponsiveTabs.js"></script>
 
 <!--[if lt IE 9]>
