@@ -195,19 +195,13 @@
 <!-- End wrapper --> 
  
   <!-- jquery | jQuery 1.11.0 -->
-        <!-- Credits: http://jquery.com -->
+       
         <script type="text/javascript" src="js/jquery_006.js"></script>
 
-        <!-- Js | mCustomScrollbar -->
-        <!-- Credits: http://manos.malihu.gr/jquery-custom-content-scroller -->
+       
         <script type="text/javascript" src="js/jquery_004.js"></script>		
 
-        <!-- Js | Js -->
-        <!-- Credits: http://themeforest.net/user/FlexyCodes -->
         <script type="text/javascript" src="js/main.js"></script>
-
-		 <!-- Js | easyResponsiveTabs -->
-        <!-- Credits: http://webtrendset.com/demo/easy-responsive-tabs/Index.html -->
         <script type="text/javascript" src="js/easyResponsiveTabs.js"></script>
 
 <!--[if lt IE 9]>
